@@ -1,4 +1,1 @@
-lab-rabbitmq
-============
-
-RabbitMQ Labs
+###RabbitMQ Labs###
